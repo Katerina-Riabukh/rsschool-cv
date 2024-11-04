@@ -1,1 +1,1 @@
-[https://katerina-riabukh.github.io/rsschool-cv/cv](https://katerina-riabukh.github.io/rsschool-cv/cv)
+https://github.com/Katerina-Riabukh/rsschool-cv/cv
