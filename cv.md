@@ -1,6 +1,4 @@
-# CV
-
-## **Kateryna Riabykh**
+# **Kateryna Riabykh**
 
 ## Contact Info
 
@@ -11,19 +9,25 @@
 ## Summary
 
 ```
-(your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+I am an Junior Full-stack developer with knowledge of HTML5, CSS3, Java Script, React, Git, Node.js.
+I have a flexible logical thinking, the ability to focus on the task and attentive to details.
+I am sincerely passionate  about learning new things.
+I have a strong desire for self-improvement both in the professional
+field and in the knowledge of human nature.
+
 ```
 
 ## Skills
 
+```
 - JavaScript
 - React
 - React Native
 - GIT
 - HTML, CSS
 - Node_JS
+
+```
 
 ## Code examples
 
@@ -34,10 +38,6 @@ learning new things from everywhere etc.).
 - MIMINO theme-project [GitHub](https://github.com/Katerina-Riabukh/mimino-nev)
 - Contact book [GitHub](https://github.com/Katerina-Riabukh/contact-book-application-react.redux)
 - The Best Movie [GitHub](https://github.com/Katerina-Riabukh/The-Best-Movie)
-
-(for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
 
 ## Education
 
