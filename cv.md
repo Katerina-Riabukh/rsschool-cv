@@ -47,8 +47,8 @@ field and in the knowledge of human nature.
 
 - GoIt School
 
-## Langueges
+## Languages
 
-- Engrish
-- Russian
-- Ukranian
+- English (B1)
+- Ukranian (fluent)
+- Russian (native)
