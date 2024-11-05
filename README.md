@@ -1,1 +1,1 @@
-https://github.com/Katerina-Riabukh/rsschool-cv/blob/gh-pages/cv.md
+[CV Kateryna Riabykh](https://katerina-riabukh.github.io/rsschool-cv/)
