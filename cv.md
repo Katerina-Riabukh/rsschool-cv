@@ -46,5 +46,5 @@ field and in the knowledge of human nature.
 ## Languages
 
 - English (B1)
-- Ukranian (fluent)
+- Ukrainian (fluent)
 - Russian (native)
