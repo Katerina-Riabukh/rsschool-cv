@@ -1,2 +1,2 @@
 
-[CV Kateryna Riabykh](https://katerina-riabukh.github.io/rsschool-cv/)
+[CV Kateryna Riabykh](https://katerina-riabukh.github.io/rsschool-cv/cv)
