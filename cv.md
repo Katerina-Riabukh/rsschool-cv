@@ -29,10 +29,6 @@ field and in the knowledge of human nature.
 
 ```
 
-## Code examples
-
-?
-
 ## Experience
 
 - MIMINO theme-project [GitHub](https://github.com/Katerina-Riabukh/mimino-nev)
@@ -50,5 +46,5 @@ field and in the knowledge of human nature.
 ## Languages
 
 - English (B1)
-- Ukranian (fluent)
+- Ukrainian (fluent)
 - Russian (native)
