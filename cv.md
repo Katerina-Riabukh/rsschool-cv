@@ -40,4 +40,7 @@ field and in the knowledge of human nature.
 - The Best Movie [GitHub](https://github.com/Katerina-Riabukh/The-Best-Movie)
   > Self project based on React.
 
+## Education
+
+- GoIt School
 
