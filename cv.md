@@ -17,3 +17,15 @@ I have a strong desire for self-improvement both in the professional
 field and in the knowledge of human nature.
 
 ```
+
+## Skills
+
+```
+- JavaScript
+- React
+- React Native
+- GIT
+- HTML, CSS
+- Node_JS
+
+```
