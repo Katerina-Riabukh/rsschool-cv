@@ -29,3 +29,15 @@ field and in the knowledge of human nature.
 - Node_JS
 
 ```
+
+## Experience
+
+- MIMINO theme-project [GitHub](https://github.com/Katerina-Riabukh/mimino-nev)
+  > Adaptive website for restaurant-hotel complex MIMINO, which is located in Ukraine.
+  > I led this project in the role of team lead.
+- Contact book [GitHub](https://github.com/Katerina-Riabukh/contact-book-application-react.redux)
+  > Self project I developed during my stadies as a homework assigment.
+- The Best Movie [GitHub](https://github.com/Katerina-Riabukh/The-Best-Movie)
+  > Self project based on React.
+
+
