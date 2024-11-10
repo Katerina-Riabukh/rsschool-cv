@@ -44,3 +44,8 @@ field and in the knowledge of human nature.
 
 - GoIt School
 
+## Languages
+
+- English (B1)
+- Ukrainian (fluent)
+- Russian (native)
