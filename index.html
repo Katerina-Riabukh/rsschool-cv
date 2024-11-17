@@ -1,138 +1,169 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <title>Document</title>
-  </head>
-  <body>
-    <div>
-      <header>
-        <h1>Kateryna Riabykh</h1>
-        <img
-          src="./images/Avatar.png"
-          alt="avatar"
-          width="150"
-          style="border: solid 1px black"
-        />
-      </header>
-      <section>
-        <h2>Contact Info</h2>
-        <a href="https://linkedin.com/in/katerinariabukh"
-          ><img
-            src="./images/linkedin_icon-icons.com_53609.png"
-            alt="linkedin"
-            width="50"
-            height="50"
-        /></a>
-        <a href="https://katerina.riabukh@gmail.com"
-          ><img
-            src="./images/Email-Icon_icon-icons.com_52870.png"
-            alt="email"
-            width="52"
-            height="51"
-        /></a>
-        <a href="https://t.me/Katerina_Riabukh"
-          ><img
-            src="./images/telegram_icon-icons.com_53603.png"
-            alt="telegram"
-            width="50"
-            height="50"
-        /></a>
-      </section>
-      <section>
-        <h2>Summary</h2>
-        <p style="width: 600px">
-          I am an Junior Full-stack developer with knowledge of HTML5, CSS3,
-          Java Script, React, Git, Node.js. I have a flexible logical thinking,
-          the ability to focus on the task and attentive to details. I am
-          sincerely passionate about learning new things. I have a strong desire
-          for self-improvement both in the professional field and in the
-          knowledge of human nature.
-        </p>
-      </section>
-      <section>
-        <h2>Skills</h2>
-        <ul>
-          <li>JavaScript</li>
-          <li>React</li>
-          <li>React Native</li>
-          <li>GIT</li>
-          <li>HTML, CSS</li>
-          <li>Node_JS</li>
-        </ul>
-      </section>
-      <section>
-        <h2>Experience</h2>
-        <ul>
-          <li>
-            <a href="https://github.com/Katerina-Riabukh/mimino-nev"
-              ><img
-                src="./images/icons8-git-144.png"
-                alt="GitHub"
-                width="30"
-                height="30"
-            /></a>
-            <a href="https://katerina-riabukh.github.io/mimino-nev/">MIMINO</a>
-          </li>
-          <li>
-            <a
-              href="https://github.com/Katerina-Riabukh/contact-book-application-react.redux"
-              ><img
-                src="./images/icons8-git-144.png"
-                alt="GitHub"
-                width="30"
-                height="30"
-            /></a>
-            <a
-              href="https://katerina-riabukh.github.io/contact-book-application-react.redux/"
-              >Contact book</a
-            >
-          </li>
-          <li>
-            <a href="https://github.com/Katerina-Riabukh/The-Best-Movie"
-              ><img
-                src="./images/icons8-git-144.png"
-                alt="GitHub"
-                width="30"
-                height="30"
-            /></a>
-            <a href="https://katerina-riabukh.github.io/The-Best-Movie/"
-              >The Best Movie</a
-            >
-          </li>
-        </ul>
-      </section>
-      <section>
-        <h2>Education</h2>
-        <ul>
-          <li>GoIt School</li>
-        </ul>
-      </section>
-      <section>
-        <h2>Languages</h2>
-        <ul>
-          <li>English (B1)</li>
-          <li>Ukrainian (fluent)</li>
-          <li>Russian (native)</li>
-        </ul>
-      </section>
-      <footer>
-        <ul>
-          <li><a href="https://github.com/Katerina-Riabukh">My GitHub</a></li>
-          <li>
-            <a href="https://rs.school/">
-              <img
-                src="./images/rs-school-logo.svg"
-                alt="Rolling Scopes School Logo"
-                width="100"
-              />
-            </a>
-          </li>
-          <li><p>2024</p></li>
-        </ul>
-      </footer>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <header class="header">
+    <nav class="header__nav-wraper">
+      <ul class="header__nav-list">
+        <li class="header__nav-item"><a href="#about">About me</a></li>
+        <li class="header__nav-item"><a href="#education">Education</a></li>
+        <li class="header__nav-item"><a href="#experience">My experience</a></li>
+      </ul>
+    </nav>
+
+  </header>
+  <main class="main">
+    <section class="hero">
+      <div class="hero__title">
+        <h1 class="hero__title-name">KATERYNA RIABYKH</h1>
+        <h2 class="hero__title-position">Front-End Developer</h2>
+      </div>
+      <div class="hero__container container">
+        <div class="hero__avatar">
+          <img src="./images/Avatar-black.png" alt="avatar" width="250">
+        </div>
+        <div>
+          <!-- <h3 class="hero__summary-title">Summary</h3> -->
+          <p class="hero__summary-description">
+            I am a Junior Front-End Developer with a strong foundation in creating responsive, user-friendly, and
+            visually appealing
+            web interfaces. I have experience working with modern web technologies including HTML5, CSS3, and
+            JavaScript, as well as
+            frameworks like React to create seamless user experiences. My understanding of web design principles and
+            usability
+            ensures that my work not only looks great, but also functions effectively across all devices and platforms.
+            I thrive on
+            turning designs into functional, maintainable web pages and am passionate about creating accessible,
+            high-performing,
+            standards-compliant code. Whether working alone or as part of a team, I strive to bring a proactive attitude
+            and
+            enthusiasm to creating engaging digital experiences that resonate with users.
+          </p>
+        </div>
+        <aside class="hero__contacts">
+          <!-- <h3 class="hero__contacts-title">Contact Info</h3> -->
+          <ul class="hero__contacts-list">
+            <li class="hero__contacts-item">
+              <div class="contact-icon"><img src="./images/icons8-linkedin-96-yellow.png" alt="linkedin" width="20"
+                  height="20"></div>
+              <a href="https://linkedin.com/in/kateryna-riabykh">@kateryna-riabykh</a>
+            </li>
+            <li class="hero__contacts-item">
+              <div class="contact-icon"><img src="./images/icons8-telegram-96-yellow.png" alt="telegram" width="20"
+                  height="20"></div>
+              <a href="https://t.me/Kateryna_Riabykh">@Kateryna_Riabykh</a>
+            </li>
+            <li class="hero__contacts-item">
+              <div class="contact-icon"><img src="./images/icons8-email-96-yellow.png" alt="email" width="20"
+                  height="20"></div>
+              <a href="https://katerina.riabukh@gmail.com">katerina.riabukh@gmail.com</a>
+            </li>
+            <li class="hero__contacts-item">
+              <div class="contact-icon"><img src="./images/icons8-location-96-yellow.png" alt="location" width="20"
+                  height="20"></div>
+              <a href="https://maps.app.goo.gl/AhNrrdt3io8SuQHR6">Amsterdam, Netherlands</a>
+            </li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+    <div class="main__wraper container">
+      <div class="main__L-container">
+        <section id="about" class="main__L-container-skills L-block">
+          <h3 class="main__L-container-skills-title id-padding-top">Tech skills</h3>
+          <ul class="main__L-container-skills-list">
+            <li class="main__L-container-skills-item">HTML5, SCC3, SASS</li>
+            <li class="main__L-container-skills-item">JavaScript</li>
+            <li class="main__L-container-skills-item">React</li>
+            <li class="main__L-container-skills-item">React Native</li>
+            <li class="main__L-container-skills-item">GIT</li>
+            <li class="main__L-container-skills-item">Node_JS</li>
+            <li class="main__L-container-skills-item">Parcel, Webpack</li>
+          </ul>
+        </section>
+        <section class="main__L-container-skills L-block">
+          <h3 class="main__L-container-skills-title">Soft skills</h3>
+          <ul class="main__L-container-skills-list">
+            <li class="main__L-container-skills-item">Critical thinking</li>
+            <li class="main__L-container-skills-item">Autonomous</li>
+            <li class="main__L-container-skills-item">Flexible</li>
+            <li class="main__L-container-skills-item">Cooperative</li>
+            <li class="main__L-container-skills-item">Open-minded</li>
+          </ul>
+        </section>
+        <section class="main__L-container-languages  L-block">
+          <h3 class="main__L-container-languages-title">Languages</h3>
+          <ul class="main__L-container-languages-list">
+            <li class="main__L-container-languages-item">English (B1)</li>
+            <li class="main__L-container-languages-item">Ukrainian (fluent)</li>
+            <li class="main__L-container-languages-item">Russian (native)</li>
+          </ul>
+        </section>
+        <section id="education" class="main__L-container-edukation">
+          <h3 class="main__L-container-edukation-title">Education</h3>
+          <ul class="main__L-container-edukation-list">
+            <li class="main__L-container-edukation-item">
+              <p class="main__L-container-edukation-description">GoIt School</p>
+              <img src="./images/sertificate.png" alt="sertificste" width="200">
+            </li>
+          </ul>
+        </section>
+      </div>
+      <div class="main__R-container">
+        <section id="experience" class="main__R-container-experience">
+          <h3 class="main__R-container-experience-title id-padding-top">Experience</h3>
+          <ul class="main__R-container-experience-list">
+            <li class="main__R-container-experience-item">
+              <a href="https://github.com/Katerina-Riabukh/mimino-nev">
+                <img src="./images/icons8-git-144.png" alt="GitHub" width="30" height="30">
+              </a>
+              <a href="https://katerina-riabukh.github.io/mimino-nev/">MIMINO</a>
+              <img src="./images/Mimino.png" alt="mimino" width="780" height="360">
+            </li>
+            <li class="main__R-container-experience-item">
+              <a href="https://github.com/Katerina-Riabukh/contact-book-application-react.redux"><img
+                  src="./images/icons8-git-144.png" alt="GitHub" width="30" height="30"></a>
+              <a href="https://katerina-riabukh.github.io/contact-book-application-react.redux/">Contact book</a>
+              <img src="./images/Contact-book.png" alt="mimino" width="780" height="360">
+            </li>
+            <li class="main__R-container-experience-item">
+              <a href="https://github.com/Katerina-Riabukh/The-Best-Movie"><img src="./images/icons8-git-144.png"
+                  alt="GitHub" width="30" height="30"></a>
+              <a href="https://katerina-riabukh.github.io/The-Best-Movie/">The Best Movie</a>
+              <img src="./images/The-best-movie.png" alt="The best movie" width="780" height="360">
+            </li>
+          </ul>
+        </section>
+      </div>
     </div>
-  </body>
+  </main>
+  <footer class="footer">
+    <ul class="footer__nav">
+      <li class="footer__nav-item">
+        <a href="https://rs.school/">
+          <img src="./images/rs-school-logo.svg" alt="Rolling Scopes School Logo" width="100">
+        </a>
+      </li>
+      <li class="footer__nav-item">
+        <a href="https://github.com/Katerina-Riabukh">
+          <div class="git">
+            <p class="git-description">Welcom to<br> my world</p>
+            <img src="./images/icons8-git-144.png" alt="GitHub" width="40" height="40">
+          </div>
+        </a>
+      </li>
+      <li class="footer__nav-item">
+        <p class="data">November, 2024</p>
+      </li>
+    </ul>
+  </footer>
+</body>
+
 </html>

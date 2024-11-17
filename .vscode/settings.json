@@ -1,0 +1,10 @@
+{
+  "json.schemas": [],
+  "json.schemaDownload.enable": false,
+  "html.format.unformatted": "",
+  "html.format.contentUnformatted": "",
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}
