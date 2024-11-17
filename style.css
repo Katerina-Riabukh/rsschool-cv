@@ -107,7 +107,7 @@ a {
 
 .main__wraper {
     display: flex;
-    margin-top: 170px;
+    margin-top: 140px;
     /* border-top: solid 5px rgb(247, 200, 69, 100%); */
 }
 
@@ -117,32 +117,43 @@ a {
     box-shadow: inset -5px 0 5px -5px rgb(247, 200, 69, 100%);
 }
 
+.L-block {
+    margin-bottom: 60px;
+}
 
 .main__L-container-skills-title,
-.main__L-container-languages-title {
+.main__L-container-languages-title,
+.main__L-container-edukation-title,
+.main__R-container-experience-title {
     font-size: 28px;
+    margin-bottom: 20px;
 }
 
 .main__L-container-skills-list,
-.main__L-container-languages-list {
+.main__L-container-languages-list,
+.main__L-container-edukation-list {
     list-style: url('./images/icons8-sphere-16-yellow.png');
 }
 
 .main__L-container-skills-item,
 .main__L-container-languages-item {
     font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.main__L-container-edukation-description {
+    font-size: 24px;
+    margin-bottom: 20px;
 }
 
 .main__R-container {
-    padding-left: 30px;
+    padding-left: 80px;
 }
 
-.main__R-container-experience-title {
-    font-size: 28px;
-}
 
 .main__R-container-experience-item {
     font-size: 24px;
+    margin-bottom: 30px;
 }
 
 .main__R-container-summary-description {
@@ -157,6 +168,10 @@ a {
 
 .git {
     display: flex;
+}
+
+.id-padding-top {
+    padding-top: 20px;
 }
 
 .footer__nav {
