@@ -1,5 +1,5 @@
 body {
-    max-width: 1440px;
+    /* max-width: 1440px; */
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
@@ -154,6 +154,25 @@ a {
 .main__R-container-experience-item {
     font-size: 24px;
     margin-bottom: 30px;
+}
+
+.experience-image {
+    width: 780px;
+    height: 360px;
+}
+
+@media screen and (max-width: 779px) {
+    .experience-image {
+        width: 400px;
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .experience-image {
+        width: 600px;
+        height: 300px;
+    }
 }
 
 .main__R-container-summary-description {
